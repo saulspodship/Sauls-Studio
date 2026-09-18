@@ -1,0 +1,13 @@
+{
+  "name": "sauls-podship-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node -e \"console.log(\\\"Saul's Podship Studio static build ready\\\")\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

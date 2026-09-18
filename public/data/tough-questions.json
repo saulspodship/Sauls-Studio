@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "slug": "where-did-god-come-from",
+    "title": "Where did God come from?",
+    "shortAnswer": "God did not come from anywhere. He is uncreated and eternal — the one being who simply is, from whom everything else derives its existence.",
+    "reference": "Psalm 90:2",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/where-did-god-come-from"
+  },
+  {
+    "id": 2,
+    "slug": "if-god-is-good-why-is-there-evil-and-suffering",
+    "title": "If God is good, why is there evil and suffering?",
+    "shortAnswer": "Scripture does not explain evil away; it says God is neither its author nor its victim, and that in Christ he entered suffering rather than merely permitting it.",
+    "reference": "Romans 8:28",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/if-god-is-good-why-is-there-evil-and-suffering"
+  },
+  {
+    "id": 3,
+    "slug": "how-can-god-be-three-persons-and-one-god",
+    "title": "How can God be three Persons and one God?",
+    "shortAnswer": "One divine essence subsisting in three distinct Persons — not three gods, not one Person in three masks. The distinction is of relation, not of substance.",
+    "reference": "Matthew 28:19",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-can-god-be-three-persons-and-one-god"
+  },
+  {
+    "id": 4,
+    "slug": "did-god-create-sin",
+    "title": "Did God create sin?",
+    "shortAnswer": "God created beings capable of choosing, and that capacity was good. Sin arose from the misuse of that freedom, not from a defect in what God made.",
+    "reference": "James 1:13",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/did-god-create-sin"
+  },
+  {
+    "id": 5,
+    "slug": "why-did-god-allow-satan-to-exist",
+    "title": "Why did God allow Satan to exist?",
+    "shortAnswer": "Satan is a creature, not a rival deity. His existence is permitted within strict limits, and his defeat is already accomplished at the cross.",
+    "reference": "Job 1:12",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/why-did-god-allow-satan-to-exist"
+  },
+  {
+    "id": 6,
+    "slug": "is-god-s-sovereignty-compatible-with-human-free-will",
+    "title": "Is God's sovereignty compatible with human free will?",
+    "shortAnswer": "Scripture asserts both without resolving the mechanism: God works genuinely, and human choices are genuinely ours and genuinely accountable.",
+    "reference": "Philippians 2:12-13",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-god-s-sovereignty-compatible-with-human-free-will"
+  },
+  {
+    "id": 7,
+    "slug": "what-does-it-mean-that-jesus-is-fully-god-and-fully-man",
+    "title": "What does it mean that Jesus is fully God and fully man?",
+    "shortAnswer": "One Person in two complete natures, divine and human, united without confusion, change, division or separation — the Chalcedonian definition of AD 451.",
+    "reference": "Colossians 2:9",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-does-it-mean-that-jesus-is-fully-god-and-fully-man"
+  },
+  {
+    "id": 8,
+    "slug": "did-jesus-have-to-die-or-was-there-another-way",
+    "title": "Did Jesus have to die, or was there another way?",
+    "shortAnswer": "The New Testament treats the cross as necessary given God's justice and mercy together — Gethsemane's 'if it be possible' received no alternative.",
+    "reference": "Hebrews 9:22",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/did-jesus-have-to-die-or-was-there-another-way"
+  },
+  {
+    "id": 9,
+    "slug": "is-faith-alone-enough-for-salvation",
+    "title": "Is faith alone enough for salvation?",
+    "shortAnswer": "All traditions agree salvation is by grace and that saving faith is never barren. They differ on whether works are the fruit of justification or part of its ground.",
+    "reference": "Ephesians 2:8-9",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-faith-alone-enough-for-salvation"
+  },
+  {
+    "id": 10,
+    "slug": "can-a-saved-person-lose-salvation",
+    "title": "Can a saved person lose salvation?",
+    "shortAnswer": "Scripture holds together strong promises of preservation and severe warnings against falling away; every tradition must account for both sets of texts.",
+    "reference": "John 10:28",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/can-a-saved-person-lose-salvation"
+  },
+  {
+    "id": 11,
+    "slug": "what-happens-to-those-who-never-heard-the-gospel",
+    "title": "What happens to those who never heard the gospel?",
+    "shortAnswer": "Scripture insists God is just and that Christ is the only Saviour, while leaving the fate of the unevangelised largely to God's judgment rather than to our formula.",
+    "reference": "Romans 2:14-15",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-happens-to-those-who-never-heard-the-gospel"
+  },
+  {
+    "id": 12,
+    "slug": "is-hell-eternal-conscious-torment",
+    "title": "Is hell eternal conscious torment?",
+    "shortAnswer": "All traditions affirm a real and final judgment. The debate is over the nature and duration of the punishment, not over whether judgment is real.",
+    "reference": "Matthew 25:46",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-hell-eternal-conscious-torment"
+  },
+  {
+    "id": 13,
+    "slug": "does-purgatory-exist",
+    "title": "Does purgatory exist?",
+    "shortAnswer": "The question is whether the saved undergo a purifying process after death. All agree that nothing unclean enters God's presence; they differ on how that cleansing occurs.",
+    "reference": "1 Corinthians 3:15",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/does-purgatory-exist"
+  },
+  {
+    "id": 14,
+    "slug": "should-we-pray-to-mary-and-the-saints",
+    "title": "Should we pray to Mary and the saints?",
+    "shortAnswer": "Everyone agrees Christ is the sole Mediator of redemption. The dispute is whether asking a departed saint to pray for us is intercession within the Body or a rival mediation.",
+    "reference": "1 Timothy 2:5",
+    "tier": 1,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/should-we-pray-to-mary-and-the-saints"
+  },
+  {
+    "id": 15,
+    "slug": "was-mary-sinless-and-ever-virgin",
+    "title": "Was Mary sinless and ever-virgin?",
+    "shortAnswer": "All Christians honour Mary as Theotokos, mother of the Lord. Traditions divide on the Immaculate Conception and on whether she bore other children.",
+    "reference": "Luke 1:28",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/was-mary-sinless-and-ever-virgin"
+  },
+  {
+    "id": 16,
+    "slug": "is-baptism-necessary-for-salvation",
+    "title": "Is baptism necessary for salvation?",
+    "shortAnswer": "Baptism is universally commanded and never treated as optional. The division is whether it conveys regeneration or signifies a regeneration already received.",
+    "reference": "Mark 16:16",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-baptism-necessary-for-salvation"
+  },
+  {
+    "id": 17,
+    "slug": "should-infants-be-baptized",
+    "title": "Should infants be baptized?",
+    "shortAnswer": "The dispute turns on whether the covenant sign belongs to households as circumcision did, or only to those who personally profess faith.",
+    "reference": "Acts 2:39",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/should-infants-be-baptized"
+  },
+  {
+    "id": 18,
+    "slug": "what-actually-happens-in-holy-communion",
+    "title": "What actually happens in Holy Communion?",
+    "shortAnswer": "Every tradition treats the Supper as the central act of Christian worship and as a real encounter with Christ; they differ on the mode of his presence.",
+    "reference": "1 Corinthians 11:24",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-actually-happens-in-holy-communion"
+  },
+  {
+    "id": 19,
+    "slug": "is-the-bible-alone-sufficient-or-do-we-need-tradition",
+    "title": "Is the Bible alone sufficient, or do we need tradition?",
+    "shortAnswer": "All sides use Scripture and all sides read it within a community. The question is whether tradition is a second source or the Church's servant reading of the one source.",
+    "reference": "2 Timothy 3:16-17",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-the-bible-alone-sufficient-or-do-we-need-tradition"
+  },
+  {
+    "id": 20,
+    "slug": "which-books-belong-in-the-bible-and-who-decided",
+    "title": "Which books belong in the Bible, and who decided?",
+    "shortAnswer": "The canon was recognised rather than invented, over centuries, on grounds of apostolicity, orthodoxy and universal use. Its Old Testament boundary is still disputed.",
+    "reference": "Luke 24:44",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/which-books-belong-in-the-bible-and-who-decided"
+  },
+  {
+    "id": 21,
+    "slug": "are-the-gifts-of-tongues-prophecy-and-healing-for-today",
+    "title": "Are the gifts of tongues, prophecy and healing for today?",
+    "shortAnswer": "The question is whether the miraculous gifts ceased with the apostolic age or continue. All agree the Spirit remains active; they differ on the form of that activity.",
+    "reference": "1 Corinthians 13:8-10",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/are-the-gifts-of-tongues-prophecy-and-healing-for-today"
+  },
+  {
+    "id": 22,
+    "slug": "is-speaking-in-tongues-the-evidence-of-the-holy-spirit",
+    "title": "Is speaking in tongues the evidence of the Holy Spirit?",
+    "shortAnswer": "All agree the Spirit indwells every believer. The dispute is whether tongues is the necessary sign of a distinct post-conversion baptism in the Spirit.",
+    "reference": "Acts 2:4",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-speaking-in-tongues-the-evidence-of-the-holy-spirit"
+  },
+  {
+    "id": 23,
+    "slug": "can-women-be-pastors-priests-or-preachers",
+    "title": "Can women be pastors, priests or preachers?",
+    "shortAnswer": "All agree women share fully in salvation and in gifting for ministry. The dispute concerns the office of ordained governing and teaching authority.",
+    "reference": "Galatians 3:28",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/can-women-be-pastors-priests-or-preachers"
+  },
+  {
+    "id": 24,
+    "slug": "is-divorce-and-remarriage-ever-permitted",
+    "title": "Is divorce and remarriage ever permitted?",
+    "shortAnswer": "All hold marriage to be a lifelong covenant and divorce a grievous evil. They differ on whether any exception permits remarriage while the spouse lives.",
+    "reference": "Matthew 19:9",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-divorce-and-remarriage-ever-permitted"
+  },
+  {
+    "id": 25,
+    "slug": "what-does-the-bible-say-about-homosexuality",
+    "title": "What does the Bible say about homosexuality?",
+    "shortAnswer": "The historic Christian teaching restricts sexual union to marriage between a man and a woman, while insisting on the equal dignity of every person and rejecting contempt or cruelty.",
+    "reference": "1 Corinthians 6:11",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-does-the-bible-say-about-homosexuality"
+  },
+  {
+    "id": 26,
+    "slug": "is-the-sabbath-saturday-or-sunday",
+    "title": "Is the Sabbath Saturday or Sunday?",
+    "shortAnswer": "Christians gathered on the first day from the earliest records, marking the resurrection. Whether that transfers the fourth commandment or fulfils it is the point at issue.",
+    "reference": "Colossians 2:16-17",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-the-sabbath-saturday-or-sunday"
+  },
+  {
+    "id": 27,
+    "slug": "should-christians-tithe-ten-percent",
+    "title": "Should Christians tithe ten percent?",
+    "shortAnswer": "Generous, sacrificial and regular giving is commanded everywhere in the New Testament; whether the specific ten percent figure carries over from the Law is disputed.",
+    "reference": "2 Corinthians 9:7",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/should-christians-tithe-ten-percent"
+  },
+  {
+    "id": 28,
+    "slug": "is-it-wrong-to-use-images-or-icons-in-worship",
+    "title": "Is it wrong to use images or icons in worship?",
+    "shortAnswer": "All reject the worship of any created thing. The dispute is whether veneration passing through an image to its prototype is idolatry or legitimate honour.",
+    "reference": "Exodus 20:4",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-it-wrong-to-use-images-or-icons-in-worship"
+  },
+  {
+    "id": 29,
+    "slug": "do-christians-still-have-to-keep-the-old-testament-law",
+    "title": "Do Christians still have to keep the Old Testament law?",
+    "shortAnswer": "The moral character of God's law abides while the ceremonial and civil order given to Israel finds its fulfilment in Christ.",
+    "reference": "Romans 10:4",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/do-christians-still-have-to-keep-the-old-testament-law"
+  },
+  {
+    "id": 30,
+    "slug": "what-is-the-unforgivable-sin",
+    "title": "What is the unforgivable sin?",
+    "shortAnswer": "In context it is the deliberate attribution of the Spirit's evident work to Satan — a settled and knowing rejection, not a fearful doubt.",
+    "reference": "Mark 3:29",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-unforgivable-sin"
+  },
+  {
+    "id": 31,
+    "slug": "can-christians-be-demon-possessed",
+    "title": "Can Christians be demon-possessed?",
+    "shortAnswer": "All affirm the reality of the demonic and the greater power of Christ. The debate is whether a believer indwelt by the Spirit can be possessed, as against oppressed or harassed.",
+    "reference": "1 John 4:4",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/can-christians-be-demon-possessed"
+  },
+  {
+    "id": 32,
+    "slug": "does-god-still-speak-outside-the-bible",
+    "title": "Does God still speak outside the Bible?",
+    "shortAnswer": "Christ is God's final and sufficient word. Whether God gives further non-canonical guidance — and how it is tested — divides the traditions.",
+    "reference": "Hebrews 1:1-2",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/does-god-still-speak-outside-the-bible"
+  },
+  {
+    "id": 33,
+    "slug": "is-predestination-fair",
+    "title": "Is predestination fair?",
+    "shortAnswer": "Election is taught plainly in Scripture and so is God's genuine desire that none perish. Every system must hold both, and each does so differently.",
+    "reference": "Romans 9:20",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-predestination-fair"
+  },
+  {
+    "id": 34,
+    "slug": "how-do-we-reconcile-genesis-with-modern-science",
+    "title": "How do we reconcile Genesis with modern science?",
+    "shortAnswer": "Genesis answers who and why rather than the mechanism and rate. Christians divide over the genre and chronology of the days while agreeing God is the sole Creator.",
+    "reference": "Genesis 1:1",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-do-we-reconcile-genesis-with-modern-science"
+  },
+  {
+    "id": 35,
+    "slug": "was-adam-a-real-historical-person",
+    "title": "Was Adam a real historical person?",
+    "shortAnswer": "Paul's argument in Romans 5 and 1 Corinthians 15 parallels Adam with Christ, which is why the historicity question carries doctrinal weight rather than merely historical interest.",
+    "reference": "Romans 5:12",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/was-adam-a-real-historical-person"
+  },
+  {
+    "id": 36,
+    "slug": "is-suicide-an-unforgivable-sin",
+    "title": "Is suicide an unforgivable sin?",
+    "shortAnswer": "The historic instinct that suicide forecloses repentance has been tempered by understanding of mental illness and by the recognition that no sin outruns the cross.",
+    "reference": "Romans 8:38-39",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-suicide-an-unforgivable-sin"
+  },
+  {
+    "id": 37,
+    "slug": "is-abortion-always-wrong",
+    "title": "Is abortion always wrong?",
+    "shortAnswer": "The Christian tradition has consistently opposed abortion from the earliest centuries, while differing on hard cases where the mother's life is directly threatened.",
+    "reference": "Psalm 139:13",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-abortion-always-wrong"
+  },
+  {
+    "id": 38,
+    "slug": "can-christians-serve-in-war-or-take-a-life",
+    "title": "Can Christians serve in war or take a life?",
+    "shortAnswer": "The Church has produced both a robust just-war tradition and a continuous pacifist witness; both claim the Sermon on the Mount.",
+    "reference": "Matthew 5:9",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/can-christians-serve-in-war-or-take-a-life"
+  },
+  {
+    "id": 39,
+    "slug": "how-should-christians-relate-to-government",
+    "title": "How should Christians relate to government?",
+    "shortAnswer": "Submission to lawful authority is commanded, and so is refusal when the state commands what God forbids — 'we must obey God rather than men.'",
+    "reference": "Romans 13:1",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-should-christians-relate-to-government"
+  },
+  {
+    "id": 40,
+    "slug": "is-wealth-a-blessing-or-a-danger",
+    "title": "Is wealth a blessing or a danger?",
+    "shortAnswer": "Scripture treats possessions as a stewardship and a spiritual hazard at once. It never condemns wealth as such, and never leaves it unexamined.",
+    "reference": "1 Timothy 6:10",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-wealth-a-blessing-or-a-danger"
+  },
+  {
+    "id": 41,
+    "slug": "what-is-the-church-building-denomination-or-people",
+    "title": "What is the church — building, denomination, or people?",
+    "shortAnswer": "The Church is the people of God, the body of Christ, and the temple of the Spirit — never merely an institution or a venue, though it takes visible form.",
+    "reference": "1 Peter 2:5",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-church-building-denomination-or-people"
+  },
+  {
+    "id": 42,
+    "slug": "is-there-salvation-outside-the-church",
+    "title": "Is there salvation outside the church?",
+    "shortAnswer": "The ancient maxim extra ecclesiam nulla salus is affirmed in some sense by all, but the definition of 'church' does the decisive work.",
+    "reference": "Acts 4:12",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-there-salvation-outside-the-church"
+  },
+  {
+    "id": 43,
+    "slug": "what-is-the-purpose-of-suffering-for-a-believer",
+    "title": "What is the purpose of suffering for a believer?",
+    "shortAnswer": "Suffering is never called good in itself, but God is repeatedly shown using it to form character, deepen dependence and conform believers to Christ.",
+    "reference": "2 Corinthians 12:9",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-purpose-of-suffering-for-a-believer"
+  },
+  {
+    "id": 44,
+    "slug": "does-god-heal-today-and-why-are-some-not-healed",
+    "title": "Does God heal today, and why are some not healed?",
+    "shortAnswer": "All traditions pray for the sick and confess that God heals. None can guarantee the timing, and Scripture itself records unhealed servants of God.",
+    "reference": "James 5:14-15",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/does-god-heal-today-and-why-are-some-not-healed"
+  },
+  {
+    "id": 45,
+    "slug": "what-is-the-baptism-in-the-holy-spirit",
+    "title": "What is the baptism in the Holy Spirit?",
+    "shortAnswer": "Every believer receives the Spirit at conversion. Whether there is a distinct subsequent empowering, and what marks it, is the dividing question.",
+    "reference": "Acts 1:5",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-baptism-in-the-holy-spirit"
+  },
+  {
+    "id": 46,
+    "slug": "is-the-rapture-biblical-and-when-does-it-occur",
+    "title": "Is the rapture biblical, and when does it occur?",
+    "shortAnswer": "All Christians confess Christ will return bodily and gather his people. Whether that gathering is a separate event before a tribulation is a modern and contested question.",
+    "reference": "1 Thessalonians 4:17",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/is-the-rapture-biblical-and-when-does-it-occur"
+  },
+  {
+    "id": 47,
+    "slug": "who-is-the-antichrist",
+    "title": "Who is the Antichrist?",
+    "shortAnswer": "John uses the term for any spirit denying that Jesus is the Christ come in flesh; Paul speaks of a coming man of sin. Both a present spirit and a final figure are in view.",
+    "reference": "1 John 2:18",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/who-is-the-antichrist"
+  },
+  {
+    "id": 48,
+    "slug": "will-there-be-a-literal-new-earth",
+    "title": "Will there be a literal new earth?",
+    "shortAnswer": "The Christian hope is not escape from matter but the renewal of it — a resurrected body on a restored earth, not disembodied souls in a distant sky.",
+    "reference": "Revelation 21:1",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/will-there-be-a-literal-new-earth"
+  },
+  {
+    "id": 49,
+    "slug": "are-other-religions-entirely-false",
+    "title": "Are other religions entirely false?",
+    "shortAnswer": "Christianity claims Christ as uniquely and universally the Saviour, which does not require denying every true or good thing found elsewhere.",
+    "reference": "John 14:6",
+    "tier": 2,
+    "region": "PK, IN",
+    "source": "https://www.saulspodship.com/theological-archive/question/are-other-religions-entirely-false"
+  },
+  {
+    "id": 50,
+    "slug": "how-can-we-trust-the-bible-when-manuscripts-differ",
+    "title": "How can we trust the Bible when manuscripts differ?",
+    "shortAnswer": "The differences are overwhelmingly minor spelling variations, word order, and obvious scribal slips. No Christian doctrine rests on a contested reading.",
+    "reference": "Matthew 24:35",
+    "tier": 1,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-can-we-trust-the-bible-when-manuscripts-differ"
+  },
+  {
+    "id": 51,
+    "slug": "what-is-the-meaning-of-the-trinity-s-perichoresis-or-circumincession",
+    "title": "What is the meaning of the Trinity's perichoresis or circumincession?",
+    "shortAnswer": "The mutual indwelling and interpenetration of the three divine Persons without confusion of their distinct hypostases.",
+    "reference": "John 14:10-11",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-meaning-of-the-trinity-s-perichoresis-or-circumincession"
+  },
+  {
+    "id": 52,
+    "slug": "how-does-christian-theology-understand-divine-impassibility",
+    "title": "How does Christian theology understand divine impassibility?",
+    "shortAnswer": "God is not subject to involuntary passions or emotional turbulence caused by external agents, yet possesses perfect, active love and compassion.",
+    "reference": "Malachi 3:6",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-christian-theology-understand-divine-impassibility"
+  },
+  {
+    "id": 53,
+    "slug": "what-is-the-biblical-basis-for-creatio-ex-nihilo-creation-out-of-nothing",
+    "title": "What is the biblical basis for creatio ex nihilo (creation out of nothing)?",
+    "shortAnswer": "God brought the universe into existence without preexisting matter or eternal chaos, establishing absolute transcendence.",
+    "reference": "Hebrews 11:3",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-basis-for-creatio-ex-nihilo-creation-out-of-nothing"
+  },
+  {
+    "id": 54,
+    "slug": "what-does-scripture-teach-regarding-the-imago-dei-in-fallen-humanity",
+    "title": "What does Scripture teach regarding the imago Dei in fallen humanity?",
+    "shortAnswer": "The image of God is defaced and corrupted by the Fall but not eradicated, remaining the ground of universal human dignity.",
+    "reference": "Genesis 9:6",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-does-scripture-teach-regarding-the-imago-dei-in-fallen-humanity"
+  },
+  {
+    "id": 55,
+    "slug": "how-do-the-covenants-of-works-and-grace-relate-in-covenant-theology",
+    "title": "How do the covenants of works and grace relate in covenant theology?",
+    "shortAnswer": "Adam failed the probation of the covenant of works; Christ as the second Adam fulfilled all righteousness in the covenant of grace.",
+    "reference": "Romans 5:18-19",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-do-the-covenants-of-works-and-grace-relate-in-covenant-theology"
+  },
+  {
+    "id": 56,
+    "slug": "what-is-the-difference-between-active-and-passive-obedience-of-christ",
+    "title": "What is the difference between active and passive obedience of Christ?",
+    "shortAnswer": "Active obedience is Christ's lifelong fulfillment of the moral law; passive obedience is his willing submission to the penal curse of death.",
+    "reference": "Philippians 2:8",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-difference-between-active-and-passive-obedience-of-christ"
+  },
+  {
+    "id": 57,
+    "slug": "what-is-the-theological-distinction-between-propitiation-and-expiation",
+    "title": "What is the theological distinction between propitiation and expiation?",
+    "shortAnswer": "Propitiation placates the holy wrath of God; expiation covers and removes the defilement and guilt of sin.",
+    "reference": "1 John 4:10",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-theological-distinction-between-propitiation-and-expiation"
+  },
+  {
+    "id": 58,
+    "slug": "what-is-the-hypostatic-union-defined-at-chalcedon-ad-451",
+    "title": "What is the hypostatic union defined at Chalcedon (AD 451)?",
+    "shortAnswer": "Two distinct, unconfused, unchanged, indivisible, and inseparable natures (divine and human) united in the single Person of the Son.",
+    "reference": "Philippians 2:6-7",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-hypostatic-union-defined-at-chalcedon-ad-451"
+  },
+  {
+    "id": 59,
+    "slug": "did-jesus-have-one-human-will-or-two-wills-divine-and-human",
+    "title": "Did Jesus have one human will or two wills (divine and human)?",
+    "shortAnswer": "The Sixth Ecumenical Council (Constantinople III, 681) affirmed dyothelitism: Christ has two wills and two operations, human and divine in harmony.",
+    "reference": "Luke 22:42",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/did-jesus-have-one-human-will-or-two-wills-divine-and-human"
+  },
+  {
+    "id": 60,
+    "slug": "what-is-the-significance-of-christ-s-descent-into-hades-sheol",
+    "title": "What is the significance of Christ's descent into Hades/Sheol?",
+    "shortAnswer": "Christ proclaimed triumph over demonic powers and liberated the righteous souls awaiting redemption, inaugurating the defeat of death.",
+    "reference": "1 Peter 3:18-19",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-significance-of-christ-s-descent-into-hades-sheol"
+  },
+  {
+    "id": 61,
+    "slug": "what-is-the-nature-of-the-resurrection-body-described-in-1-corinthians-15",
+    "title": "What is the nature of the resurrection body described in 1 Corinthians 15?",
+    "shortAnswer": "A real, physical, yet glorified and immortal somatic body animated and transformed by the Holy Spirit (soma pneumatikon).",
+    "reference": "1 Corinthians 15:42-44",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-nature-of-the-resurrection-body-described-in-1-corinthians-15"
+  },
+  {
+    "id": 62,
+    "slug": "what-is-the-session-of-christ-at-the-right-hand-of-the-father",
+    "title": "What is the session of Christ at the right hand of the Father?",
+    "shortAnswer": "Christ's supreme exaltation, cosmic enthronement, and ongoing heavenly intercession as High Priest and King.",
+    "reference": "Hebrews 1:3",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-session-of-christ-at-the-right-hand-of-the-father"
+  },
+  {
+    "id": 63,
+    "slug": "what-is-the-filioque-clause-and-why-did-it-divide-east-and-west",
+    "title": "What is the filioque clause and why did it divide East and West?",
+    "shortAnswer": "The Western insertion of 'and the Son' in the Creed; East defended the monarchia of the Father, West emphasized the co-equality of Son and Spirit.",
+    "reference": "John 15:26",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-filioque-clause-and-why-did-it-divide-east-and-west"
+  },
+  {
+    "id": 64,
+    "slug": "what-is-regeneration-and-how-does-it-precede-saving-faith-in-reformed-thought",
+    "title": "What is regeneration and how does it precede saving faith in Reformed thought?",
+    "shortAnswer": "The supernatural, monergistic awakening of the dead soul by the Spirit, enabling belief; other traditions hold faith and new birth occur simultaneously.",
+    "reference": "John 3:3",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-regeneration-and-how-does-it-precede-saving-faith-in-reformed-thought"
+  },
+  {
+    "id": 65,
+    "slug": "what-is-the-difference-between-imputed-and-infused-righteousness",
+    "title": "What is the difference between imputed and infused righteousness?",
+    "shortAnswer": "Imputed righteousness is credited forensically to the believer's legal standing; infused righteousness is poured inward through sacraments.",
+    "reference": "Romans 4:5",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-difference-between-imputed-and-infused-righteousness"
+  },
+  {
+    "id": 66,
+    "slug": "what-is-the-doctrine-of-the-perspicuity-clarity-of-scripture",
+    "title": "What is the doctrine of the perspicuity (clarity) of Scripture?",
+    "shortAnswer": "The core truths necessary for salvation are so clearly presented in Scripture that anyone reading with ordinary discernment can understand them.",
+    "reference": "Psalm 119:105",
+    "tier": 2,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-doctrine-of-the-perspicuity-clarity-of-scripture"
+  },
+  {
+    "id": 67,
+    "slug": "what-is-the-analogia-fidei-analogy-of-faith-in-hermeneutics",
+    "title": "What is the analogia fidei (analogy of faith) in hermeneutics?",
+    "shortAnswer": "The principle that obscure or difficult biblical texts must be interpreted in light of the clear, overarching teaching of the entire biblical canon.",
+    "reference": "Romans 12:6",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-analogia-fidei-analogy-of-faith-in-hermeneutics"
+  },
+  {
+    "id": 68,
+    "slug": "what-is-progressive-revelation-across-redemptive-history",
+    "title": "What is progressive revelation across redemptive history?",
+    "shortAnswer": "God revealed his plan, character, and covenant gradually over centuries, culminating fully and decisively in Jesus Christ.",
+    "reference": "Hebrews 1:1",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-progressive-revelation-across-redemptive-history"
+  },
+  {
+    "id": 69,
+    "slug": "how-does-typology-differ-from-allegory-in-biblical-interpretation",
+    "title": "How does typology differ from allegory in biblical interpretation?",
+    "shortAnswer": "Typology discovers real historical persons and events intended by God as prophetic shadows of Christ; allegory searches for hidden philosophical senses.",
+    "reference": "1 Corinthians 10:6",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-typology-differ-from-allegory-in-biblical-interpretation"
+  },
+  {
+    "id": 70,
+    "slug": "what-are-the-four-senses-of-scripture-in-classical-christian-exegetical-tradition",
+    "title": "What are the four senses of scripture in classical Christian exegetical tradition?",
+    "shortAnswer": "The medieval Quadriga: literal (historical event), allegorical (what to believe), tropological/moral (what to do), and anagogical (what to hope for).",
+    "reference": "2 Timothy 3:16",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-are-the-four-senses-of-scripture-in-classical-christian-exegetical-tradition"
+  },
+  {
+    "id": 71,
+    "slug": "what-is-the-regulative-principle-versus-the-normative-principle-of-worship",
+    "title": "What is the regulative principle versus the normative principle of worship?",
+    "shortAnswer": "Regulative principle allows only what Scripture expressly commands; normative principle permits whatever Scripture does not forbid.",
+    "reference": "Deuteronomy 12:32",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-regulative-principle-versus-the-normative-principle-of-worship"
+  },
+  {
+    "id": 72,
+    "slug": "what-is-the-communion-of-saints-communio-sanctorum",
+    "title": "What is the communion of saints (communio sanctorum)?",
+    "shortAnswer": "The spiritual solidarity and fellowship binding all believers in heaven and on earth together in the one mystical body of Christ.",
+    "reference": "Hebrews 12:1",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-communion-of-saints-communio-sanctorum"
+  },
+  {
+    "id": 73,
+    "slug": "what-is-the-difference-between-the-visible-and-invisible-church",
+    "title": "What is the difference between the visible and invisible Church?",
+    "shortAnswer": "The visible Church is the historical professing congregation; the invisible Church is the elect company known infallibly to God alone.",
+    "reference": "2 Timothy 2:19",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-difference-between-the-visible-and-invisible-church"
+  },
+  {
+    "id": 74,
+    "slug": "what-constitutes-the-valid-administration-of-christian-baptism",
+    "title": "What constitutes the valid administration of Christian baptism?",
+    "shortAnswer": "Water applied in the threefold Trinitarian name by an authorized minister with the intention to do what the Church does.",
+    "reference": "Matthew 28:19",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-constitutes-the-valid-administration-of-christian-baptism"
+  },
+  {
+    "id": 75,
+    "slug": "how-do-christian-traditions-interpret-the-real-presence-in-the-eucharist",
+    "title": "How do Christian traditions interpret the real presence in the Eucharist?",
+    "shortAnswer": "Transubstantiation (Catholic), sacramental union (Lutheran), spiritual real presence by faith (Reformed), and memorial feast (Zwinglian).",
+    "reference": "1 Corinthians 10:16",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-do-christian-traditions-interpret-the-real-presence-in-the-eucharist"
+  },
+  {
+    "id": 76,
+    "slug": "what-is-the-sacramental-seal-and-indelible-character-of-baptism-and-ordination",
+    "title": "What is the sacramental seal and indelible character of baptism and ordination?",
+    "shortAnswer": "A permanent spiritual mark imprinted on the soul by certain sacraments that cannot be repeated or erased.",
+    "reference": "Ephesians 4:30",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-sacramental-seal-and-indelible-character-of-baptism-and-ordination"
+  },
+  {
+    "id": 77,
+    "slug": "what-is-the-biblical-teaching-on-christian-stewardship-and-financial-giving",
+    "title": "What is the biblical teaching on Christian stewardship and financial giving?",
+    "shortAnswer": "Cheerful, proportional, sacrificial giving for gospel proclamation, local church sustenance, and relief of the impoverished.",
+    "reference": "2 Corinthians 9:7",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-teaching-on-christian-stewardship-and-financial-giving"
+  },
+  {
+    "id": 78,
+    "slug": "what-is-the-theological-basis-for-christian-fasting",
+    "title": "What is the theological basis for Christian fasting?",
+    "shortAnswer": "Fasting disciplines the flesh, intensifies prayer, fosters solidarity with the poor, and expresses hunger for the kingdom of God.",
+    "reference": "Matthew 6:16-18",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-theological-basis-for-christian-fasting"
+  },
+  {
+    "id": 79,
+    "slug": "how-should-christians-understand-the-role-of-civil-disobedience",
+    "title": "How should Christians understand the role of civil disobedience?",
+    "shortAnswer": "Civil authorities possess God-given jurisdiction for justice, but when human decrees contradict divine commandments, obedience to God is mandatory.",
+    "reference": "Acts 5:29",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-should-christians-understand-the-role-of-civil-disobedience"
+  },
+  {
+    "id": 80,
+    "slug": "what-is-the-biblical-view-of-the-intermediate-state-between-death-and-resurrection",
+    "title": "What is the biblical view of the intermediate state between death and resurrection?",
+    "shortAnswer": "Believers enter conscious, joyful rest in Christ's presence; unbelievers await final judgment; bodily resurrection occurs at Christ's return.",
+    "reference": "2 Corinthians 5:8",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-view-of-the-intermediate-state-between-death-and-resurrection"
+  },
+  {
+    "id": 81,
+    "slug": "how-does-amillennialism-interpret-revelation-20-s-thousand-year-reign",
+    "title": "How does amillennialism interpret Revelation 20's thousand-year reign?",
+    "shortAnswer": "The millennium is the current church age between Christ's first and second comings, where Satan is bound from deceiving the nations wholesale.",
+    "reference": "Revelation 20:2-3",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-amillennialism-interpret-revelation-20-s-thousand-year-reign"
+  },
+  {
+    "id": 82,
+    "slug": "how-does-historic-premillennialism-interpret-the-return-of-christ",
+    "title": "How does historic premillennialism interpret the return of Christ?",
+    "shortAnswer": "Christ returns visibly and bodily before inaugurating a literal earthly millennium prior to the final judgment and new creation.",
+    "reference": "Revelation 20:4-6",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-historic-premillennialism-interpret-the-return-of-christ"
+  },
+  {
+    "id": 83,
+    "slug": "how-does-postmillennialism-understand-the-progress-of-the-gospel",
+    "title": "How does postmillennialism understand the progress of the gospel?",
+    "shortAnswer": "The preaching of the gospel and work of the Spirit will gradually Christianize the nations before Christ returns to a largely converted world.",
+    "reference": "Matthew 28:18-20",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-postmillennialism-understand-the-progress-of-the-gospel"
+  },
+  {
+    "id": 84,
+    "slug": "what-is-the-biblical-nature-of-the-final-judgment",
+    "title": "What is the biblical nature of the final judgment?",
+    "shortAnswer": "A public, universal, righteous evaluation by Jesus Christ where all secrets are revealed, rewards bestowed, and condemnation executed.",
+    "reference": "2 Corinthians 5:10",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-nature-of-the-final-judgment"
+  },
+  {
+    "id": 85,
+    "slug": "what-is-the-new-jerusalem-and-its-cubic-dimensions-in-revelation-21",
+    "title": "What is the New Jerusalem and its cubic dimensions in Revelation 21?",
+    "shortAnswer": "The consummate city-temple dwelling of God with humanity, shaped as a cube to reflect the Holy of Holies where God's presence fills all in all.",
+    "reference": "Revelation 21:16",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-new-jerusalem-and-its-cubic-dimensions-in-revelation-21"
+  },
+  {
+    "id": 86,
+    "slug": "what-is-the-doctrine-of-common-grace-and-how-does-it-sustain-human-society",
+    "title": "What is the doctrine of common grace and how does it sustain human society?",
+    "shortAnswer": "God's unmerited goodness restraining sin and bestowing civic order, science, and beauty upon all mankind without saving them.",
+    "reference": "Matthew 5:45",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-doctrine-of-common-grace-and-how-does-it-sustain-human-society"
+  },
+  {
+    "id": 87,
+    "slug": "what-is-prevenient-grace-in-wesleyan-arminian-theology",
+    "title": "What is prevenient grace in Wesleyan-Arminian theology?",
+    "shortAnswer": "Universal grace preceding salvation that restores the fallen human will to a state where it is genuinely able to accept or resist the gospel.",
+    "reference": "John 12:32",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-prevenient-grace-in-wesleyan-arminian-theology"
+  },
+  {
+    "id": 88,
+    "slug": "what-is-the-reformed-understanding-of-irresistible-effectual-grace",
+    "title": "What is the Reformed understanding of irresistible (effectual) grace?",
+    "shortAnswer": "The internal call of the Spirit that infallibly overcomes human resistance in the elect, renewing their heart to desire Christ freely.",
+    "reference": "John 6:37",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-reformed-understanding-of-irresistible-effectual-grace"
+  },
+  {
+    "id": 89,
+    "slug": "what-is-the-doctrine-of-total-depravity-or-radical-corruption",
+    "title": "What is the doctrine of total depravity (or radical corruption)?",
+    "shortAnswer": "Sin infects every faculty of the human person (mind, will, affection) such that fallen humanity cannot seek or please God apart from grace.",
+    "reference": "Jeremiah 17:9",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-doctrine-of-total-depravity-or-radical-corruption"
+  },
+  {
+    "id": 90,
+    "slug": "what-is-unconditional-election-in-classical-theology",
+    "title": "What is unconditional election in classical theology?",
+    "shortAnswer": "God's eternal choice of certain sinners unto salvation grounded solely in his sovereign grace and pleasure, not foreseen human merit.",
+    "reference": "Ephesians 1:4-5",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-unconditional-election-in-classical-theology"
+  },
+  {
+    "id": 91,
+    "slug": "what-is-the-debate-surrounding-definite-particular-atonement",
+    "title": "What is the debate surrounding definite (particular) atonement?",
+    "shortAnswer": "Whether Christ died with the specific design to effectually redeem the elect (particular), or to make salvation possible for all (universal).",
+    "reference": "John 10:15",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-debate-surrounding-definite-particular-atonement"
+  },
+  {
+    "id": 92,
+    "slug": "what-is-the-perseverance-of-the-saints-versus-conditional-security",
+    "title": "What is the perseverance of the saints versus conditional security?",
+    "shortAnswer": "Whether true believers are preserved eternally by God's power, or can apostatize through persistent unbelief and forfeit salvation.",
+    "reference": "Philippians 1:6",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-perseverance-of-the-saints-versus-conditional-security"
+  },
+  {
+    "id": 93,
+    "slug": "what-is-the-role-of-natural-law-in-christian-ethical-deliberation",
+    "title": "What is the role of natural law in Christian ethical deliberation?",
+    "shortAnswer": "The moral order woven by the Creator into creation and human conscience, accessible to human reason though confirmed by special revelation.",
+    "reference": "Romans 2:14-15",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-role-of-natural-law-in-christian-ethical-deliberation"
+  },
+  {
+    "id": 94,
+    "slug": "what-is-christian-theodicy-in-the-face-of-natural-disasters-physical-evil",
+    "title": "What is Christian theodicy in the face of natural disasters (physical evil)?",
+    "shortAnswer": "Physical evils stem from the curse on creation and the fallen world order, serving as sober reminders of human fragility and the need for repentance.",
+    "reference": "Luke 13:4-5",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-christian-theodicy-in-the-face-of-natural-disasters-physical-evil"
+  },
+  {
+    "id": 95,
+    "slug": "what-is-the-biblical-basis-for-church-discipline-and-restoration",
+    "title": "What is the biblical basis for church discipline and restoration?",
+    "shortAnswer": "A loving, structured pastoral process to correct sin, preserve the purity and witness of the church, and restore the fallen brother.",
+    "reference": "Matthew 18:15-17",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-basis-for-church-discipline-and-restoration"
+  },
+  {
+    "id": 96,
+    "slug": "what-is-the-difference-between-ministerial-and-magisterial-authority",
+    "title": "What is the difference between ministerial and magisterial authority?",
+    "shortAnswer": "Magisterial authority enacts laws on its own right; ministerial authority simply declares and administers the revealed laws of Christ the King.",
+    "reference": "1 Peter 5:2-3",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-difference-between-ministerial-and-magisterial-authority"
+  },
+  {
+    "id": 97,
+    "slug": "how-does-the-bible-address-slavery-across-historical-contexts",
+    "title": "How does the Bible address slavery across historical contexts?",
+    "shortAnswer": "Scripture regulated ancient Near Eastern bondservanthood and planted spiritual principles of universal equality in Christ that dismantled institutional slavery.",
+    "reference": "Philemon 1:16",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/how-does-the-bible-address-slavery-across-historical-contexts"
+  },
+  {
+    "id": 98,
+    "slug": "what-is-the-biblical-definition-of-marriage",
+    "title": "What is the biblical definition of marriage?",
+    "shortAnswer": "A lifelong, public, covenantal union of one man and one woman established by God at creation and reflecting the mystery of Christ and the Church.",
+    "reference": "Genesis 2:24",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-definition-of-marriage"
+  },
+  {
+    "id": 99,
+    "slug": "what-is-the-biblical-balance-between-christian-liberty-and-stumbling-blocks",
+    "title": "What is the biblical balance between Christian liberty and stumbling blocks?",
+    "shortAnswer": "Believers are free in matters indifferent (adiaphora), but must voluntarily curtail their liberties out of love to avoid causing weaker brethren to stumble.",
+    "reference": "Romans 14:13",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-biblical-balance-between-christian-liberty-and-stumbling-blocks"
+  },
+  {
+    "id": 100,
+    "slug": "what-is-the-ultimate-purpose-of-human-existence-telos",
+    "title": "What is the ultimate purpose of human existence (telos)?",
+    "shortAnswer": "To glorify God, delight in his presence, and enjoy communion with him forever in the new creation.",
+    "reference": "1 Corinthians 10:31",
+    "tier": 3,
+    "region": "",
+    "source": "https://www.saulspodship.com/theological-archive/question/what-is-the-ultimate-purpose-of-human-existence-telos"
+  }
+]
