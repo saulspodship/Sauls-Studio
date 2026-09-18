@@ -1,0 +1,61 @@
+[
+  {
+    "id": "pod-1788846448312-017d0",
+    "title": "Creation: Light & Life",
+    "type": "bible-story",
+    "storyId": "1",
+    "passage": "Genesis 1:1–2:3",
+    "format": "reel",
+    "template": "Split-screen presenter",
+    "style": "Cinematic biblical",
+    "duration": 90,
+    "objective": "help viewers see the biblical story clearly and explore the passage for themselves",
+    "avatar": {
+      "enabled": true,
+      "name": "Saul Avatar"
+    },
+    "voice": {
+      "enabled": true,
+      "name": "Saul Voice"
+    },
+    "status": "draft",
+    "createdAt": "2026-09-08T05:47:28.313Z",
+    "updatedAt": "2026-09-08T05:47:31.425Z",
+    "script": {
+      "hook": "What if Creation: Light & Life changed everything?",
+      "thesis": "Creation: Light & Life (Genesis 1:1–2:3) is more than an ancient account. It calls us to see God’s character, human response, and hope with fresh attention.",
+      "narration": [
+        {
+          "section": "Hook",
+          "seconds": 0,
+          "text": "Here is the story of Creation: Light & Life."
+        },
+        {
+          "section": "Context",
+          "seconds": 8,
+          "text": "We begin with the setting, the people, and the tension that brings this moment into focus."
+        },
+        {
+          "section": "Story",
+          "seconds": 24,
+          "text": "Walk through the key movement of the passage carefully, letting the biblical text lead the account."
+        },
+        {
+          "section": "Meaning",
+          "seconds": 52,
+          "text": "Notice what this reveals about God and the faithful response the passage calls forth."
+        },
+        {
+          "section": "Response",
+          "seconds": 74,
+          "text": "Today, we can help viewers see the biblical story clearly and explore the passage for themselves. Read the passage for yourself and continue the conversation."
+        }
+      ],
+      "theologicalReview": "Draft for editorial and theological review. Verify quotations, interpretive claims, and denominational framing before publishing."
+    },
+    "render": {
+      "status": "needs-provider",
+      "manifestCreatedAt": "2026-09-08T05:47:28.369Z"
+    }
+  }
+]

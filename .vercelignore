@@ -1,0 +1,5 @@
+# Local-only server and persistence. Vercel serves public/ and deploys api/ functions.
+/server.mjs
+/data/
+.env
+node_modules/
